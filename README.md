@@ -1,4 +1,4 @@
-## Hello! ![Alec LinkedIn Photo](https://user-images.githubusercontent.com/51800943/122322870-28fddd00-cef4-11eb-9a55-b01223ef63d2.jpg)
+## Hello! (website under construction) ![Alec LinkedIn Photo](https://user-images.githubusercontent.com/51800943/122322870-28fddd00-cef4-11eb-9a55-b01223ef63d2.jpg)
 
 
 I am Alec Critten (he/him). I recently graduated from the University of Vermont, majoring in mathematics and minoring in computer science. Some of my main areas of interest past and present are post-quantum cryptography, formal methods, and various areas of pure mathematics.
